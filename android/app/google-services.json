@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "261233113805",
+    "project_id": "bigbit-ba246",
+    "storage_bucket": "bigbit-ba246.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:261233113805:android:641b97b340ee29ea818784",
+        "android_client_info": {
+          "package_name": "com.bigbit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "261233113805-dqqt79jqvfi5ekednqte410kfhrlsfr7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bigbit",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "261233113805-lc2ahr6lahhndmeetashn9rrnihei4d0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9WzvFkjdBkbUrPiM4nBqH7LVfYeVw-W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "261233113805-lc2ahr6lahhndmeetashn9rrnihei4d0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
